@@ -36,6 +36,7 @@ Click on the data type buttons below to see SciLifeLab units who offer data gene
   </ul>
   </span>
   </div>
+  <br>
 </div>
 
 <p>
@@ -53,6 +54,7 @@ Click on the data type buttons below to see SciLifeLab units who offer data gene
   </ul>
   </span>
   </div>
+  <br>
 </div>
 
 <p>
@@ -70,6 +72,7 @@ Click on the data type buttons below to see SciLifeLab units who offer data gene
   </ul>
   </span>
   </div>
+  <br>
 </div>
 
 <p>
@@ -88,6 +91,7 @@ Click on the data type buttons below to see SciLifeLab units who offer data gene
   <p>Also available is <a href="https://bioms.se/">Biological Mass Spectrometry</a> (BioMS) national infrastructure, which enables cutting-edge mass spectrometry and related advanced technology platforms.</p>
   </span>
   </div>
+  <br>
 </div>
 
 ## Storage

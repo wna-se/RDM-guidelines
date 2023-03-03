@@ -43,6 +43,7 @@ Click on the buttons below for data type specific information regarding suitable
 
   </span>
   </div>
+  <br>
 </div>
 
 <p>
@@ -56,6 +57,7 @@ Click on the buttons below for data type specific information regarding suitable
   Depending on the type of image data you have, different public repositories are available, please see the table at <a href="https://www.ebi.ac.uk/bioimage-archive/">BioImage Archive</a>.
   </span>
   </div>
+  <br>
 </div>
 
 <p>
@@ -69,6 +71,7 @@ Click on the buttons below for data type specific information regarding suitable
   <a href="https://www.ebi.ac.uk/metabolights/">MetaboLights</a> is a database for Metabolomics experiments and derived information. The database is cross-species, cross-technique and covers metabolite structures and their reference spectra as well as their biological roles, locations and concentrations, and experimental data from metabolic experiments.
   </span>
   </div>
+  <br>
 </div>
 
 <p>
@@ -86,6 +89,7 @@ Click on the buttons below for data type specific information regarding suitable
   </ul>
   </span>
   </div>
+  <br>
 </div>
 
 <p>
@@ -103,6 +107,7 @@ Click on the buttons below for data type specific information regarding suitable
 
   </span>
   </div>
+  <br>
 </div>
 
 &nbsp;

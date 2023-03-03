@@ -85,6 +85,7 @@ Curated up-to-date guidance regarding file types and metadata standards is found
   </ul>
   </span>
   </div>
+  <br>
 </div>
 
 <p>
@@ -122,6 +123,7 @@ Curated up-to-date guidance regarding file types and metadata standards is found
       </ul>
   </span>
   </div>
+  <br>
 </div>
 
 <p>
@@ -142,6 +144,7 @@ Curated up-to-date guidance regarding file types and metadata standards is found
     </ul>
   </span>
   </div>
+  <br>
 </div>
 
 <p>
@@ -158,6 +161,7 @@ Curated up-to-date guidance regarding file types and metadata standards is found
   </ul>
   </span>
   </div>
+  <br>
 </div>
 
 <p>
@@ -186,6 +190,7 @@ Curated up-to-date guidance regarding file types and metadata standards is found
   </ul>
   </span>
   </div>
+  <br>
 </div>
 
 ## Resources

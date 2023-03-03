@@ -25,6 +25,7 @@ Data and metadata should be easy to find by both humans and computer systems. Ba
     </span>
     </div>
   </div>  
+  <br>
 </div>
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseFind2" role="button" aria-expanded="false" aria-controls="collapseFind2">
@@ -41,6 +42,7 @@ Data and metadata should be easy to find by both humans and computer systems. Ba
     </span>
     </div>
   </div>  
+  <br>
 </div>
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseFind3" role="button" aria-expanded="false" aria-controls="collapseFind3">
@@ -57,6 +59,7 @@ Data and metadata should be easy to find by both humans and computer systems. Ba
     </span>
     </div>
   </div>  
+  <br>
 </div>
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseFind4" role="button" aria-expanded="false" aria-controls="collapseFind4">
@@ -73,6 +76,7 @@ Data and metadata should be easy to find by both humans and computer systems. Ba
     </span>
     </div>
   </div>  
+  <br>
 </div>
 
 ## Accessible
@@ -92,6 +96,7 @@ Data and metadata should be stored for the long term such that they can be easil
     </span>
     </div>
   </div>  
+  <br>
 </div>
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseAccess2" role="button" aria-expanded="false" aria-controls="collapseAccess2">
@@ -106,7 +111,8 @@ Data and metadata should be stored for the long term such that they can be easil
       <b>Explanation:</b> Anyone with a computer and an internet connection can access at least the metadata.
     </span>
     </div>
-  </div>  
+  </div>
+  <br>
 </div>
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseAccess3" role="button" aria-expanded="false" aria-controls="collapseAccess3">
@@ -122,6 +128,7 @@ Data and metadata should be stored for the long term such that they can be easil
     </span>
     </div>
   </div>  
+  <br>
 </div>
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseAccess4" role="button" aria-expanded="false" aria-controls="collapseAccess4">
@@ -138,6 +145,7 @@ Data and metadata should be stored for the long term such that they can be easil
     </span>
     </div>
   </div>  
+  <br>
 </div>
 
 ## Interoperable
@@ -156,7 +164,8 @@ Data should be ready to be exchanged, interpreted and combined in a (semi)automa
       <b>Action:</b> Provide machine readable data and metadata in an accessible language, using a well-established formalism. In particular, data and metadata are annotated with resolvable vocabularies/ontologies/thesauri that are commonly used in the field. The <a href="https://www.w3.org/RDF/">RDF</a> extensible knowledge representation model is a way to describe and structure datasets. You can refer to the <a href="https://dublincore.org/schemas/">Dublin Core Schema</a> as an example.
     </span>
     </div>
-  </div>  
+  </div>
+  <br>
 </div>
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseInterop2" role="button" aria-expanded="false" aria-controls="collapseInterop2">
@@ -173,6 +182,7 @@ Data should be ready to be exchanged, interpreted and combined in a (semi)automa
     </span>
     </div>
   </div>  
+  <br>
 </div>
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseInterop3" role="button" aria-expanded="false" aria-controls="collapseInterop3">
@@ -188,7 +198,8 @@ Data should be ready to be exchanged, interpreted and combined in a (semi)automa
       <b>Action:</b> Properly cite relevant/associated datasets, in particular by providing their persistent identifiers, in the metadata, and describe the scientific link/relation to your dataset.
     </span>
     </div>
-  </div>  
+  </div>
+  <br>
 </div>
 
 ## Reusable
@@ -219,7 +230,8 @@ Data and metadata are sufficiently well-described to allow data to be reused in 
       </ul>
     </span>
     </div>
-  </div>  
+  </div>
+  <br>
 </div>
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseReuse2" role="button" aria-expanded="false" aria-controls="collapseReuse2">
@@ -236,6 +248,7 @@ Data and metadata are sufficiently well-described to allow data to be reused in 
     </span>
     </div>
   </div>  
+  <br>
 </div>
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseReuse3" role="button" aria-expanded="false" aria-controls="collapseReuse3">
@@ -252,6 +265,7 @@ Data and metadata are sufficiently well-described to allow data to be reused in 
     </span>
     </div>
   </div>  
+  <br>
 </div>
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseReuse4" role="button" aria-expanded="false" aria-controls="collapseReuse4">
@@ -267,7 +281,8 @@ Data and metadata are sufficiently well-described to allow data to be reused in 
       <b>Action:</b> Prepare your (meta)data according to community standards and best practices for data archiving and sharing in your research field. There might be situations where good practice exist for the type of data to be submitted but the submitter has valid and specified reasons to divert from the standard practice. This needs to be addressed in the metadata.
     </span>
     </div>
-  </div>  
+  </div>
+  <br>  
 </div>
 
 ## Resources
